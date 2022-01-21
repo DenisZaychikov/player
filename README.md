@@ -24,7 +24,7 @@ livereload
 ### Использование
 
 Увидеть в действии по адресу 
-[Мой плеер](https://deniszaychikov.github.io/player/).
+[https://my_player.ru](https://deniszaychikov.github.io/player/).
 
 
 ### Цель проекта
