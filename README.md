@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 Запуск -
 ```
-livereload dist
+livereload
 ```
 
 Сайт появится по адресу 
