@@ -24,7 +24,7 @@ livereload
 ### Использование
 
 Увидеть в действии по адресу 
-[https://прекрасный видеоплеер.ру](https://theegid.github.io/video_player/dist/index.html).
+[Мой плеер](https://deniszaychikov.github.io/player/).
 
 
 ### Цель проекта
