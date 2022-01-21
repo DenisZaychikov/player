@@ -1,0 +1,26 @@
+.play-btn, .pause-btn, .volume-btn, .mute-btn, .fullscreen-btn {
+    border-style:none;
+    cursor:pointer;
+    color:white;
+    background-color: transparent;
+    padding: 2px;
+    margin: 2px;
+}
+.empty {
+    flex-grow: 1;
+}
+.player {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 40px rgba(0,0,0,1);
+    min-width: 200px;
+    max-width: 800px;
+    height: 600px;
+}
+.video-container {
+    flex: 1;
+}
+.buttons {
+    display: flex;
+    background-color:black;
+}
